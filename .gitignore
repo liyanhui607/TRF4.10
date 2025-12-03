@@ -1,0 +1,11 @@
+*.exe
+Release/
+Debug/
+*.sublime-*
+*.html
+*.dat
+*.code-workspace
+.vscode
+.vstags
+build/
+autom4te.cache/
