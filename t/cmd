@@ -1,0 +1,1 @@
+/usr/bin/time -v ../build/src/trf   input.fasta  2 7 7 80 10 50 2000 -h -ngs >output.txt
